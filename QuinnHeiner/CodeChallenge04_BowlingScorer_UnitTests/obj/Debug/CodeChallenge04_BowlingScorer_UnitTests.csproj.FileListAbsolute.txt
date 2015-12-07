@@ -1,0 +1,7 @@
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\bin\Debug\CodeChallenge04_BowlingScorer_UnitTests.dll
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\bin\Debug\CodeChallenge04_BowlingScorer_UnitTests.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\bin\Debug\CodeChallenge04_BowlingScorer.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\bin\Debug\CodeChallenge04_BowlingScorer.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\obj\Debug\CodeChallenge04_BowlingScorer_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\obj\Debug\CodeChallenge04_BowlingScorer_UnitTests.dll
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_BowlingScorer_UnitTests\obj\Debug\CodeChallenge04_BowlingScorer_UnitTests.pdb
